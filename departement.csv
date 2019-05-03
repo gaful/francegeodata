@@ -1,0 +1,97 @@
+﻿code_dep_iso,code_dep_2chiffres,code_reg_full,code_reg_full,code_reg_short,Nom,region_insee,nom_region
+FR-01,01,FR-ARA,FR-ARA,ARA,Ain,84,Auvergne-Rhône-Alpes
+FR-02,02,FR-HDF,FR-HDF,HDF,Aisne,32,Hauts-de-France
+FR-03,03,FR-ARA,FR-ARA,ARA,Allier,84,Auvergne-Rhône-Alpes
+FR-04,04,FR-PAC,FR-PAC,PAC,Alpes-de-Haute-Provence,93,Provence-Alpes-Côte d'Azur
+FR-06,06,FR-PAC,FR-PAC,PAC,Alpes-Maritimes,93,Provence-Alpes-Côte d'Azur
+FR-07,07,FR-ARA,FR-ARA,ARA,Ardèche,84,Auvergne-Rhône-Alpes
+FR-08,08,FR-GES,FR-GES,GES,Ardennes,44,Grand Est
+FR-09,09,FR-OCC,FR-OCC,OCC,Ariège,76,Occitanie
+FR-10,10,FR-GES,FR-GES,GES,Aube,44,Grand Est
+FR-11,11,FR-OCC,FR-OCC,OCC,Aude,76,Occitanie
+FR-12,12,FR-OCC,FR-OCC,OCC,Aveyron,76,Occitanie
+FR-67,67,FR-GES,FR-GES,GES,Bas-Rhin,44,Grand Est
+FR-13,13,FR-PAC,FR-PAC,PAC,Bouches-du-Rhône,93,Provence-Alpes-Côte d'Azur
+FR-14,14,FR-NOR,FR-NOR,NOR,Calvados,28,Normandie
+FR-15,15,FR-ARA,FR-ARA,ARA,Cantal,84,Auvergne-Rhône-Alpes
+FR-16,16,FR-NAQ,FR-NAQ,NAQ,Charente,75,Nouvelle-Aquitaine
+FR-17,17,FR-NAQ,FR-NAQ,NAQ,Charente-Maritime,75,Nouvelle-Aquitaine
+FR-18,18,FR-CVL,FR-CVL,CVL,Cher,24,Centre-Val de Loire
+FR-19,19,FR-NAQ,FR-NAQ,NAQ,Corrèze,75,Nouvelle-Aquitaine
+FR-2A,2A,FR-COR,FR-COR,COR,Corse-du-Sud,94,Corse
+FR-21,21,FR-BFC,FR-BFC,BFC,Côte-d'Or,27,Bourgogne-Franche-Comté
+FR-22,22,FR-BRE,FR-BRE,BRE,Côtes-d'Armor,53,Bretagne
+FR-23,23,FR-NAQ,FR-NAQ,NAQ,Creuse,75,Nouvelle-Aquitaine
+FR-79,79,FR-NAQ,FR-NAQ,NAQ,Deux-Sèvres,75,Nouvelle-Aquitaine
+FR-24,24,FR-NAQ,FR-NAQ,NAQ,Dordogne,75,Nouvelle-Aquitaine
+FR-25,25,FR-BFC,FR-BFC,BFC,Doubs,27,Bourgogne-Franche-Comté
+FR-26,26,FR-ARA,FR-ARA,ARA,Drôme,84,Auvergne-Rhône-Alpes
+FR-91,91,FR-IDF,FR-IDF,IDF,Essonne,11,Île-de-France
+FR-27,27,FR-NOR,FR-NOR,NOR,Eure,28,Normandie
+FR-28,28,FR-CVL,FR-CVL,CVL,Eure-et-Loir,24,Centre-Val de Loire
+FR-29,29,FR-BRE,FR-BRE,BRE,Finistère,53,Bretagne
+FR-30,30,FR-OCC,FR-OCC,OCC,Gard,76,Occitanie
+FR-32,32,FR-OCC,FR-OCC,OCC,Gers,76,Occitanie
+FR-33,33,FR-NAQ,FR-NAQ,NAQ,Gironde,75,Nouvelle-Aquitaine
+FR-2B,2B,FR-COR,FR-COR,COR,Haute-Corse,94,Corse
+FR-31,31,FR-OCC,FR-OCC,OCC,Haute-Garonne,76,Occitanie
+FR-43,43,FR-ARA,FR-ARA,ARA,Haute-Loire,84,Auvergne-Rhône-Alpes
+FR-52,52,FR-GES,FR-GES,GES,Haute-Marne,44,Grand Est
+FR-05,05,FR-PAC,FR-PAC,PAC,Hautes-Alpes,93,Provence-Alpes-Côte d'Azur
+FR-70,70,FR-BFC,FR-BFC,BFC,Haute-Saône,27,Bourgogne-Franche-Comté
+FR-74,74,FR-ARA,FR-ARA,ARA,Haute-Savoie,84,Auvergne-Rhône-Alpes
+FR-65,65,FR-OCC,FR-OCC,OCC,Hautes-Pyrénées,76,Occitanie
+FR-87,87,FR-NAQ,FR-NAQ,NAQ,Haute-Vienne,75,Nouvelle-Aquitaine
+FR-68,68,FR-GES,FR-GES,GES,Haut-Rhin,44,Grand Est
+FR-92,92,FR-IDF,FR-IDF,IDF,Hauts-de-Seine,11,Île-de-France
+FR-34,34,FR-OCC,FR-OCC,OCC,Hérault,76,Occitanie
+FR-35,35,FR-BRE,FR-BRE,BRE,Ille-et-Vilaine,53,Bretagne
+FR-36,36,FR-CVL,FR-CVL,CVL,Indre,24,Centre-Val de Loire
+FR-37,37,FR-CVL,FR-CVL,CVL,Indre-et-Loire,24,Centre-Val de Loire
+FR-38,38,FR-ARA,FR-ARA,ARA,Isère,84,Auvergne-Rhône-Alpes
+FR-39,39,FR-BFC,FR-BFC,BFC,Jura,27,Bourgogne-Franche-Comté
+FR-40,40,FR-NAQ,FR-NAQ,NAQ,Landes,75,Nouvelle-Aquitaine
+FR-42,42,FR-ARA,FR-ARA,ARA,Loire,84,Auvergne-Rhône-Alpes
+FR-44,44,FR-PDL,FR-PDL,PDL,Loire-Atlantique,52,Pays de la Loire
+FR-45,45,FR-CVL,FR-CVL,CVL,Loiret,24,Centre-Val de Loire
+FR-41,41,FR-CVL,FR-CVL,CVL,Loir-et-Cher,24,Centre-Val de Loire
+FR-46,46,FR-OCC,FR-OCC,OCC,Lot,76,Occitanie
+FR-47,47,FR-NAQ,FR-NAQ,NAQ,Lot-et-Garonne,75,Nouvelle-Aquitaine
+FR-48,48,FR-OCC,FR-OCC,OCC,Lozère,76,Occitanie
+FR-49,49,FR-PDL,FR-PDL,PDL,Maine-et-Loire,52,Pays de la Loire
+FR-50,50,FR-NOR,FR-NOR,NOR,Manche,28,Normandie
+FR-51,51,FR-GES,FR-GES,GES,Marne,44,Grand Est
+FR-53,53,FR-PDL,FR-PDL,PDL,Mayenne,52,Pays de la Loire
+FR-54,54,FR-GES,FR-GES,GES,Meurthe-et-Moselle,44,Grand Est
+FR-55,55,FR-GES,FR-GES,GES,Meuse,44,Grand Est
+FR-56,56,FR-BRE,FR-BRE,BRE,Morbihan,53,Bretagne
+FR-57,57,FR-GES,FR-GES,GES,Moselle,44,Grand Est
+FR-58,58,FR-BFC,FR-BFC,BFC,Nièvre,27,Bourgogne-Franche-Comté
+FR-59,59,FR-HDF,FR-HDF,HDF,Nord,32,Hauts-de-France
+FR-60,60,FR-HDF,FR-HDF,HDF,Oise,32,Hauts-de-France
+FR-61,61,FR-NOR,FR-NOR,NOR,Orne,28,Normandie
+FR-75,75,FR-IDF,FR-IDF,IDF,Paris,11,Île-de-France
+FR-62,62,FR-HDF,FR-HDF,HDF,Pas-de-Calais,32,Hauts-de-France
+FR-63,63,FR-ARA,FR-ARA,ARA,Puy-de-Dôme,84,Auvergne-Rhône-Alpes
+FR-64,64,FR-NAQ,FR-NAQ,NAQ,Pyrénées-Atlantiques,75,Nouvelle-Aquitaine
+FR-66,66,FR-OCC,FR-OCC,OCC,Pyrénées-Orientales,76,Occitanie
+FR-69,69,FR-ARA,FR-ARA,ARA,Rhône,84,Auvergne-Rhône-Alpes
+FR-71,71,FR-BFC,FR-BFC,BFC,Saône-et-Loire,27,Bourgogne-Franche-Comté
+FR-72,72,FR-PDL,FR-PDL,PDL,Sarthe,52,Pays de la Loire
+FR-73,73,FR-ARA,FR-ARA,ARA,Savoie,84,Auvergne-Rhône-Alpes
+FR-77,77,FR-IDF,FR-IDF,IDF,Seine-et-Marne,11,Île-de-France
+FR-76,76,FR-NOR,FR-NOR,NOR,Seine-Maritime,28,Normandie
+FR-93,93,FR-IDF,FR-IDF,IDF,Seine-Saint-Denis,11,Île-de-France
+FR-80,80,FR-HDF,FR-HDF,HDF,Somme,32,Hauts-de-France
+FR-81,81,FR-OCC,FR-OCC,OCC,Tarn,76,Occitanie
+FR-82,82,FR-OCC,FR-OCC,OCC,Tarn-et-Garonne,76,Occitanie
+FR-90,90,FR-BFC,FR-BFC,BFC,Territoire de Belfort,27,Bourgogne-Franche-Comté
+FR-94,94,FR-IDF,FR-IDF,IDF,Val-de-Marne,11,Île-de-France
+FR-95,95,FR-IDF,FR-IDF,IDF,Val-d'Oise,11,Île-de-France
+FR-83,83,FR-PAC,FR-PAC,PAC,Var,93,Provence-Alpes-Côte d'Azur
+FR-84,84,FR-PAC,FR-PAC,PAC,Vaucluse,93,Provence-Alpes-Côte d'Azur
+FR-85,85,FR-PDL,FR-PDL,PDL,Vendée,52,Pays de la Loire
+FR-86,86,FR-NAQ,FR-NAQ,NAQ,Vienne,75,Nouvelle-Aquitaine
+FR-88,88,FR-GES,FR-GES,GES,Vosges,44,Grand Est
+FR-89,89,FR-BFC,FR-BFC,BFC,Yonne,27,Bourgogne-Franche-Comté
+FR-78,78,FR-IDF,FR-IDF,IDF,Yvelines,11,Île-de-France
