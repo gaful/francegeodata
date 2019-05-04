@@ -1,0 +1,10 @@
+$ filter 'region != "GUYANE"'
+[filter] Retained 100 of 101 features
+$ filter 'region != "LA REUNION"'
+[filter] Retained 99 of 100 features
+$ filter 'region != "GUADELOUPE"'
+[filter] Retained 98 of 99 features
+$ filter 'region != "MARTINIQUE"'
+[filter] Retained 97 of 98 features
+$ filter 'region != "MAYOTTE"'
+[filter] Retained 96 of 97 features
